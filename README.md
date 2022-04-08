@@ -1,4 +1,4 @@
-# Introduction to Data Science With Python
+# Data Science With Python
 
 **Author: Mohamed NIANG, ML Scientist**
 
