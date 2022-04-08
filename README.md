@@ -8,4 +8,15 @@
 
 ## Program Content
 
-...
+1. The numpy library in Python
+2. Data analysis with numpy in Python
+3. The pandas library in Python
+4. Data manipulation in pandas with Python
+5. Handling missing values in Python
+6. Data analysis in Python
+7. Pandas series in Python
+8. Pandas dataframes in Python
+9. Intermediate data analysis in Python
+10. Matplotlib in Python
+11. Bar and scatter plots in Python
+12. Histograms and boxplots in Python
