@@ -20,4 +20,3 @@
 10. Matplotlib in Python
 11. Bar and scatter plots in Python
 12. Histograms and boxplots in Python
-13. 
